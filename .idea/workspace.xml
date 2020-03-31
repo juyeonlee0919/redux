@@ -1,10 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4ee94a4-76fa-4fec-b178-5ff883d8f75e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZtSAKQhARO4H0yKH7smXBUeIYp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wndus\Desktop\test\src" />
+      <recent name="C:\Users\wndus\Desktop\test\src\components" />
+      <recent name="C:\Users\wndus\Desktop\test\src\modules" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="459" y="441" key="FileChooserDialogImpl" timestamp="1585666314582">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="459" y="441" key="FileChooserDialogImpl/0.0.2560.1400/-1360.189.1360.728@0.0.2560.1400" timestamp="1585666314582" />
+    <state x="480" y="573" key="Github.ShareDialog" timestamp="1585666339872">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="480" y="573" key="Github.ShareDialog/0.0.2560.1400/-1360.189.1360.728@0.0.2560.1400" timestamp="1585666339872" />
+    <state width="1320" height="193" key="GridCell.Tab.0.bottom" timestamp="1585666209904">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1320" height="193" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1360.189.1360.728@0.0.2560.1400" timestamp="1585666209904" />
+    <state width="1320" height="193" key="GridCell.Tab.0.center" timestamp="1585666209903">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1320" height="193" key="GridCell.Tab.0.center/0.0.2560.1400/-1360.189.1360.728@0.0.2560.1400" timestamp="1585666209903" />
+    <state width="1320" height="193" key="GridCell.Tab.0.left" timestamp="1585666209903">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1320" height="193" key="GridCell.Tab.0.left/0.0.2560.1400/-1360.189.1360.728@0.0.2560.1400" timestamp="1585666209903" />
+    <state width="1320" height="193" key="GridCell.Tab.0.right" timestamp="1585666209903">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1320" height="193" key="GridCell.Tab.0.right/0.0.2560.1400/-1360.189.1360.728@0.0.2560.1400" timestamp="1585666209903" />
+    <state x="180" y="342" key="SettingsEditor" timestamp="1585663991833">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="180" y="342" key="SettingsEditor/0.0.2560.1400/-1360.189.1360.728@0.0.2560.1400" timestamp="1585663991833" />
+    <state x="525" y="239" width="1158" height="1200" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1585664172397">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="525" y="239" width="1158" height="1200" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.2560.1400/-1360.189.1360.728@0.0.2560.1400" timestamp="1585664172397" />
+    <state x="100" y="100" width="1158" height="1200" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585664112948">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="100" y="100" width="1158" height="1200" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400/-1360.189.1360.728@0.0.2560.1400" timestamp="1585664112948" />
   </component>
 </project>
